@@ -1,0 +1,9 @@
+Sudip
+                             Category Rating
+1                Computer Programming      4
+2                         Mathematics      5
+3                          Statistics      5
+4                    Machine Learning      2
+5                    Domain Expertise      3
+6 Communication & Presentation Skills      3
+7                  Data Visualization      2
